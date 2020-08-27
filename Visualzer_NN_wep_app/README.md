@@ -4,4 +4,4 @@ This is a simple Neural Network Visualizer
 
 [vistest.pdf](https://github.com/Mohamad-Aboda/Machine-Learning-Study/files/5136512/vistest.pdf)
 
-![](Images/finaltest.png)
+![](images/finaltest.png)
